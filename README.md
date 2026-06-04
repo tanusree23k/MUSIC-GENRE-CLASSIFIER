@@ -1,19 +1,5 @@
 Intern id CITS3377
+
 Intern name K.Tanusree
- # MUSIC-GENRE-CLASSIFIER
-Music Genre Classifier is a web-based project developed using Python, Flask, HTML, and CSS.  
-The main purpose of this project is to classify songs based on different music genres.  
-Users can enter a genre name and view related songs instantly.  
-The application includes a mix of Telugu, Hindi, and English songs.  
-Genres such as pop, rock, romantic, party, and sad are included in the system.  
-Each genre contains songs from multiple languages for a better user experience.  
-The project provides a simple and attractive user interface.  
-It runs directly in a web browser using Flask.  
-HTML is used to design the structure of the webpage.  
-CSS is used to make the page visually attractive and user-friendly.  
-The application helps users explore songs according to their mood and interests.  
-It is easy to use and gives quick results based on user input.  
-The project is useful for beginners to understand Python web development.  
-It also helps in learning Flask framework integration.  
-This project can be further improved by adding more genres and songs.  
-Future enhancements may include music recommendations and audio previews.
+
+A Music Genre Classifier built using Python, Flask, HTML, and CSS that displays Telugu, Hindi, and English songs based on genres.
